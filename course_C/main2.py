@@ -12,7 +12,7 @@ for idx, row in df.iterrows():
     pdf.cell(w=0, h=12, txt=row["Topic"], align="L", ln=1, border=0)
     pdf.line(10,21,200,21)
 
-
-
+    for num in range(row["Pages"]-1):
+        pdf.add_page()
 
 pdf.output("output.pdf")
