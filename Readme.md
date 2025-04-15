@@ -15,16 +15,11 @@
 ## course_C
 
 ### (Day24) Features added to Website bonus project
-- Added extra space vertically between team boxes (write(&nbsp;))
-- Calculated the number of rows for each column,so that extra team boxes would fill columns from left to right
 
 ## mikeb_M
 - Started with final version of course_C
-- [  ] 
-- [ X ]
-- After generating a version with Gen the following changes are desired
-- [ - ] Use markdown to right justify status next to source code 
-- Final version is XXX.py
+- Nothing to add or enhance
+- Final version is main2.py
 
 ## Gemini_A
 - Started with creating prompts in Prompt.md
