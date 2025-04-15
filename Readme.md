@@ -18,10 +18,11 @@
 
 ## mikeb_M
 - Started with final version of course_C
-- Nothing to add or enhance
+- [ X ] Refactor slightly to make logic more readable
 - Final version is main2.py
 
 ## Gemini_A
 - Started with creating prompts in Prompt.md
-- Second try worked well enough 
+- First try worked almost.
+  - Decided to stop when the code did not improve.
 
