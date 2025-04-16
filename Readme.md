@@ -14,7 +14,8 @@
 
 ## course_C
 
-### (Day24) Features added to Website bonus project
+- Nothing to remark. 
+  - Project fairly simple and straight forward
 
 ## mikeb_M
 - Started with final version of course_C
